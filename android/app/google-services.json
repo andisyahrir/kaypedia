@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1019654631997",
+    "project_id": "kaypedia-food",
+    "storage_bucket": "kaypedia-food.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019654631997:android:ef52b2dae17811a9b0b054",
+        "android_client_info": {
+          "package_name": "com.kaypedia.food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019654631997-4t4tkomj7io1bofokapbb4tv330du59m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxidpp1nFvSFUUHRQNPvrJZpQegO79Tx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019654631997-4t4tkomj7io1bofokapbb4tv330du59m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
